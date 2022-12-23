@@ -1,0 +1,10 @@
+para activar el entorno virtual
+copia el codigo
+python -m venv env
+
+
+para activar el entorno virtual
+env\Scripts\activate
+
+para desactivar 
+env\Scripts\deactivate
